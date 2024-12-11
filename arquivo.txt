@@ -1,8 +1,0 @@
-   
- Testando o arquivo txt 1 |  
- Testando o arquivo txt 2 |  
- Testando o arquivo txt 3 |  
- Testando o arquivo txt 4 |  
- Testando o arquivo txt 5 |  
- Testando o arquivo txt 6 |  
- Testando o arquivo txt 7 | 
