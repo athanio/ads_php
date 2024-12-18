@@ -15,12 +15,17 @@
             return "Arquivo criado";
          }  
     }
+
+
+    
     public function escreverFile($content){
         file_put_contents($this->arquivo, $content . PHP_EOL, FILE_APPEND);
     }
     public function lerFile(){
         return file_get_contents($this->arquivo);
     }
+
+
     public function DeletaFile(){
         unlink($this->arquivo);
         return "Arquivo Deletado";
